@@ -68,4 +68,10 @@ references/             写作、标题、图片提示词参考
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/image?repos=th3ee9ine/wechat-claw-skill&type=date&legend=top-left)](https://www.star-history.com/?repos=th3ee9ine%2Fwechat-claw-skill&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=th3ee9ine%2Fwechat-claw-skill&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=th3ee9ine/wechat-claw-skill&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=th3ee9ine/wechat-claw-skill&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=th3ee9ine/wechat-claw-skill&type=timeline&legend=top-left" />
+ </picture>
+</a>
