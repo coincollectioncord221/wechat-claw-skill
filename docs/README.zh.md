@@ -16,6 +16,23 @@
 - 调用外部脚本生成图片、上传图片、创建草稿、发布文章
 - 采集本地文件、URL、原始文本并归一化为 source bundle
 
+### 效果示例
+
+功能介绍图：
+
+<p align="center">
+  <img src="./img/介绍1.jpeg" alt="wechat-claw 功能痛点说明" width="31%" />
+  <img src="./img/介绍2.jpeg" alt="wechat-claw 核心能力说明" width="31%" />
+  <img src="./img/介绍3.jpeg" alt="wechat-claw 配图规划与流水线说明" width="31%" />
+</p>
+
+公众号文章样例：
+
+<p align="center">
+  <img src="./img/样例1.jpeg" alt="wechat-claw 公众号文章样例一" width="31%" />
+  <img src="./img/样例2.jpeg" alt="wechat-claw 公众号文章样例二" width="31%" />
+</p>
+
 ### 适用场景
 
 - AI 日报 / 财经周报 / 深度分析 / 行业观察

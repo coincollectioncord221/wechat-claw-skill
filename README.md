@@ -20,6 +20,23 @@
 - Optional pipeline hooks for image generation, upload, draft creation, and publish
 - Source collection from files, URLs, and raw text
 
+## Visual Samples
+
+功能介绍 / feature overview:
+
+<p align="center">
+  <img src="./docs/img/介绍1.jpeg" alt="wechat-claw pain points overview" width="31%" />
+  <img src="./docs/img/介绍2.jpeg" alt="wechat-claw capabilities overview" width="31%" />
+  <img src="./docs/img/介绍3.jpeg" alt="wechat-claw image planning and pipeline overview" width="31%" />
+</p>
+
+文章样例 / article examples:
+
+<p align="center">
+  <img src="./docs/img/样例1.jpeg" alt="wechat-claw article sample 1" width="31%" />
+  <img src="./docs/img/样例2.jpeg" alt="wechat-claw article sample 2" width="31%" />
+</p>
+
 ## Templates
 
 Supported templates:

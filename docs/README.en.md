@@ -16,6 +16,23 @@ This repository focuses on a structured WeChat article workflow:
 - call external scripts for image generation, upload, draft creation, and publishing
 - normalize local files, URLs, or raw text into a source bundle
 
+### Visual Samples
+
+Feature overview:
+
+<p align="center">
+  <img src="./img/介绍1.jpeg" alt="wechat-claw pain points overview" width="31%" />
+  <img src="./img/介绍2.jpeg" alt="wechat-claw capabilities overview" width="31%" />
+  <img src="./img/介绍3.jpeg" alt="wechat-claw image planning and pipeline overview" width="31%" />
+</p>
+
+Article samples:
+
+<p align="center">
+  <img src="./img/样例1.jpeg" alt="wechat-claw article sample one" width="31%" />
+  <img src="./img/样例2.jpeg" alt="wechat-claw article sample two" width="31%" />
+</p>
+
 ### Typical use cases
 
 - AI daily briefings
