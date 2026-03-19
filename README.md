@@ -47,6 +47,8 @@ Supported templates:
 - `industry-radar`
 - `product-release`
 - `breaking-watch`
+- `studio-brief`
+- `neo-brutalism`
 
 Template files live in [`templates/`](./templates).
 
