@@ -33,6 +33,14 @@ Article samples:
   <img src="./img/样例2.jpeg" alt="wechat-claw article sample two" width="31%" />
 </p>
 
+### Support
+
+If this project helps you, you can support its maintenance by scanning the QR code below.
+
+<p align="center">
+  <img src="./img/赞赏码.png" alt="wechat-claw donation QR code" width="260" />
+</p>
+
 ### Typical use cases
 
 - AI daily briefings

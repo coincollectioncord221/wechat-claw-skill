@@ -37,6 +37,15 @@
   <img src="./docs/img/样例2.jpeg" alt="wechat-claw article sample 2" width="31%" />
 </p>
 
+## Support
+
+如果这个项目对你有帮助，欢迎扫码赞赏支持维护。
+If this project helps you, you can support its maintenance by scanning the QR code below.
+
+<p align="center">
+  <img src="./docs/img/赞赏码.png" alt="wechat-claw donation QR code" width="260" />
+</p>
+
 ## Templates
 
 Supported templates:

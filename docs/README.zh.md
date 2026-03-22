@@ -33,6 +33,14 @@
   <img src="./img/样例2.jpeg" alt="wechat-claw 公众号文章样例二" width="31%" />
 </p>
 
+### 赞赏支持
+
+如果这个项目对你有帮助，欢迎扫码赞赏支持维护。
+
+<p align="center">
+  <img src="./img/赞赏码.png" alt="wechat-claw 赞赏码" width="260" />
+</p>
+
 ### 适用场景
 
 - AI 日报 / 财经周报 / 深度分析 / 行业观察
